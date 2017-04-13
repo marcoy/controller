@@ -34,7 +34,7 @@ DefaultMap="MarcoCustom/default lcdFuncMap"
 #       PartialMaps[2]="layer2"
 #       PartialMaps[3]="layer3"
 PartialMaps[1]="MarcoCustom/func"
-PartialMaps[2]="iced_numpad"
+PartialMaps[2]="MarcoCustom/numpad"
 
 
 
